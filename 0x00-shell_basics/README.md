@@ -1,1 +1,1 @@
-displaying current content
+script that create directory
