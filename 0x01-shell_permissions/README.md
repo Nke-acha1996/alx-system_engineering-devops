@@ -1,1 +1,1 @@
-whoami
+owner
