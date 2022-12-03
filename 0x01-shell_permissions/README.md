@@ -1,1 +1,1 @@
-mirrorpermission
+directorypermission
