@@ -1,1 +1,1 @@
-smilling face
+someone who cares
