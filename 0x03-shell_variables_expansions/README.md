@@ -1,1 +1,1 @@
-rot
+ decimal
