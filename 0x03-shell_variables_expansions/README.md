@@ -1,1 +1,1 @@
- decimal
+odd
